@@ -9,10 +9,10 @@ Your task is to prototype the backend service for an appointments scheduler appl
 * As a user, I want to be able to book an available slot
 * As a user, I should not be able to book in the past
 * As a user, I want to see all my upcoming confirmed appointments
-* As a clinician, I want to see upcoming booking requests
+* As a clinician, I want to see upcoming requests
 
 **Expectations**:
-* Create a database schema to support this API service using the data above
+* Create a database schema to support this API service (see assumptions for data for clinicians)
 * Should be built using node
 * Should include a data migration using the input data
 * All tests should pass and be representative of the acceptance criteria but should not just be the happy path
