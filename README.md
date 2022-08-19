@@ -13,14 +13,12 @@ We have included data
 * As a clinician, I want to see upcoming requests
 
 **Expectations**:
-* Should be built using node
+* Should be built using node (in JavaScript, but encouraged to use TypeScript)
 * To keep this as simple as possible, create the data in memory and not in a database.
 * The clinician schedules are already pre-defined for you in schedules.csv
 * All tests should pass and be representative of the acceptance criteria but should not just be the happy path
 * Should include instructions on how to setup, run and test.
-
-**BONUS**
-There is a bonus-marks if you build this in TypeScript
+* Although we are looking for this to be built If you feel you can, build this in TypeScript
 
 **Assumptions**:
 * Do not worry about authentication, lets assume the user and clinicians are already authenticated.
