@@ -3,8 +3,6 @@
 
 Your task is to prototype the backend service for an appointments scheduler application given the following input and outputs:
 
-We have included data 
-
 **Acceptance Criteria**:
 * As a user, I want to be able to see which clinicians are available in my province
 * As a user, I want to be able to see what 30min slots are available to me based on a particular clinician
