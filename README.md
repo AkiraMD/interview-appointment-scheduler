@@ -16,7 +16,6 @@ Your task is to prototype the backend service for an appointments scheduler appl
 * The clinician schedules are already pre-defined for you in schedules.csv
 * All tests should pass and be representative of the acceptance criteria but should not just be the happy path
 * Should include instructions on how to setup, run and test.
-* Although we are looking for this to be built If you feel you can, build this in TypeScript
 
 **Assumptions**:
 * Do not worry about authentication, lets assume the user and clinicians are already authenticated.
